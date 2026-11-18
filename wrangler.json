@@ -1,0 +1,12 @@
+{
+  "name": "upi-gateway-d1",
+  "main": "app.py",
+  "compatibility_date": "2026-11-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "upi_gateway",
+      "database_id": "your-d1-database-id"
+    }
+  ]
+}
